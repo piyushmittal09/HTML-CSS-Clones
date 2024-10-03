@@ -1,0 +1,117 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+  width: 100%;
+  height: 60px;
+  background-color: #0f1111;
+}
+
+nav{
+  display: flex;
+}
+
+.logo{
+  height: 60px;
+  display: flex;
+}
+
+.amazon-logo{
+  height: 30px;
+  object-fit: cover;
+  padding: 20px 0px 10px 20px;
+}
+.logo-text{
+  color: white;
+  padding-top: 20px;
+  font-weight: bold;
+}
+
+.location-box{
+  margin-left: 25px;
+  margin-top: 15px;
+  color: white;
+}
+
+.location-text p{
+  color: #aaaaaa;
+  font-size: 12px;
+  margin-left: 15px;
+}
+
+.location-icon{
+  display: flex;
+  color: white;
+}
+
+.location-icon p{
+  font-weight: bold;
+  font-size: 16px;
+  margin-left: 5px;
+}
+
+.search-bar{
+  display: flex;
+  align-items: center;
+}
+
+.search-bar select{
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  width: 55px;
+  height: 40px;
+  margin-left: 20px;
+  padding: 0 0 0 10px;
+  border-radius: 5px 0px 0px 5px;
+  background: #ddd;
+  background-image: url("data:image/svg+xml;utf8,<svg fill='black' height='24' viewBox='0 0 24 24' width='24' xmlns='http://www.w3.org/2000/svg'><path d='M7 10l5 5 5-5z'/><path d='M0 0h24v24H0z' fill='none'/></svg>");
+  background-repeat: no-repeat;
+  background-position-x: 100%;
+  background-position-y: 5px;
+  border: 1px solid #ddd;
+  outline: none;
+}
+
+.search-bar option{
+  background-color: #ffffff;
+}
+
+.search-bar select:focus{
+  outline: 2px solid orange;
+}
+
+.search-bar .search{
+  width: 500px;
+  height: 40px;
+  padding: 0 0 0 10px;
+  border-radius: 0px 0px 0px 0px;
+  border: 0px;
+  outline: 0px;
+}
+
+.search-bar .search:focus{
+  border: 0;
+  outline: 0;
+}
+
+.search::placeholder{
+  font-size: 17px;
+}
+
+.search-icon{
+  width: 50px;
+  height: 40px;
+  background-color: #febd69;
+  font-size: 20px;
+  border-radius: 0 5px 5px 0;
+  border: none;
+  outline: 0;
+}
+
+.search-icon:active{
+  border: none;
+  outline: none;
+}
