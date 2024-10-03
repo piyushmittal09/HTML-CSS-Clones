@@ -80,7 +80,8 @@ nav{
 }
 
 .search-bar select:focus{
-  outline: 2px solid orange;
+  outline: none;
+  border: 3px solid orange;
 }
 
 .search-bar .search{
@@ -114,4 +115,87 @@ nav{
 .search-icon:active{
   border: none;
   outline: none;
+}
+
+.country {
+  display: flex;
+  padding: 12px 0 0 20px;
+}
+
+.country img{
+  width: 20px;
+  height: 40px;
+}
+
+.country p{
+  color: white;
+  font-size: 14px;
+  font-weight: bold;
+  padding: 12px 0 0 5px;
+}
+
+.country svg{
+  padding-top: 7px;
+}
+
+.account-dash{
+  color: white;
+  padding: 15px 0 0 10px;
+  font-weight: bold;
+}
+
+.account-name{
+  font-size: 12px;
+}
+
+.account-list{
+  font-size: 14px;
+  display: flex;
+  padding-top: 3px;
+}
+
+.account-list svg{
+  width: 20px;
+}
+
+.orders{
+  color: white;
+  font-weight: bold;
+  padding: 15px 0 0 10px;
+}
+
+.orders p:nth-child(1){
+  font-size: 12px;
+  font-weight: 300;
+}
+
+.orders p:nth-child(2){
+  font-size: 14px;
+}
+
+.cart{
+  padding: 0 0 0 25px;
+}
+
+.cart p{
+  color: white;
+}
+
+.cart p:nth-child(1){
+  font-size: 14px;
+  color: orangered;
+  position: relative;
+  top: 18px;
+  left: 18px;
+  font-weight: bold;
+}
+
+.cart-inner p{
+  padding: 13px 0 0 5px;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.cart-inner{
+  display: flex;
 }
