@@ -20,7 +20,7 @@ const nextSlide = ()=>{
 };
 
 const prevSlide = ()=>{
-  slider.style.transform = `translateX(${(sildeNumber-2)*-100}%)`;
+  slider.style.transform = `translateX(${(sildeNumber-1)*-100}%)`;
   sildeNumber--;
   slider.style.transition = "all 1s ease";
 };
@@ -31,8 +31,8 @@ const getFirstSlide = ()=>{
 }
 
 const getLastSlide = ()=>{
-  slider.style.transform = `translateX(-${(length-1)*0}%)`;
-  sildeNumber = length;
+  slider.style.transform = `translateX(-${(length)*100}%)`;
+  sildeNumber = slideLength;
 }
 
 right.addEventListener("click", ()=>{
@@ -54,3 +54,14 @@ left.addEventListener("click", ()=>{
   }
   
 });
+
+setInterval(()=>{
+  
+   if(sildeNumber < slideLength){
+    nextSlide();
+  } else{
+    getFirstSlide();
+  }
+
+}, 5000);
+
