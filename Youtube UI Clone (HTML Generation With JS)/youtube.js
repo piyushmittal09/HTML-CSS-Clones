@@ -1,13 +1,13 @@
 
 
 const video = [{
-  iframe: 'https://www.youtube.com/embed/Jf0Ah28vgFU?si=14na6C0SEHhqVHQy',
-  time: '2:50',
-  profile: 'https://yt3.ggpht.com/ytc/AIf8zZTWHtMibOetiBxFSfTnmdmI08tSwMsYrlTGhSQE=s48-c-k-c0x00ffffff-no-rj',
+  iframe: 'https://www.youtube.com/embed/0pWsCiBvLOk?si=vVVe68gTUI1monZ9',
+  time: '2:39',
+  profile: 'https://yt3.ggpht.com/bnt--q2Z0wyH0NZBKUYaDrmFmruomYCvn2ev5bvBbx5D0JOxovcT9n9iNimt-y_GovvHaJbrQFc=s48-c-k-c0x00ffffff-no-rj',
     stat: {
-      title: 'Vilen - Jawani (Official Audio)',
-      author: 'Darks Music Company',
-      views: '1,893,567 views &#183; Premiered Sep 17, 2022'
+      title: 'Shubh - One Love (Official Audio)',
+      author: 'SHUBH',
+      views: '198,350,033 views Aug 18, 2023'
     }
 }, {
   iframe: 'https://www.youtube.com/embed/EFtBsMctfy0?si=spTaxx33KhONcMPI',
