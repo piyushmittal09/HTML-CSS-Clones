@@ -10,40 +10,40 @@ const video = [{
       views: '198,350,033 views Aug 18, 2023'
     }
 }, {
-  iframe: 'https://www.youtube.com/embed/EFtBsMctfy0?si=spTaxx33KhONcMPI',
-  time: '2:39',
-  profile: 'https://yt3.ggpht.com/dBp34AexmrfPa80G_aEW6UmYq9u17gIE1QHoSwRqbLXiM-ajXOlgGqw2eUJlBT8YJwO7ilUnxQ=s48-c-k-c0x00ffffff-no-rj',
+  iframe: 'https://www.youtube.com/embed/wCGbpXhGflk?si=Xac4iqyWCfZ1Spa-',
+  time: '3:05',
+  profile: 'src="https://yt3.ggpht.com/fBQVhvloOOpgThfLC1wafSINQOcZbpv3QATTY0yAI0CJ-lJR84tbguLbP53PVawjKacKkHYfybY=s48-c-k-c0x00ffffff-no-rj"',
     stat: {
-      title: 'SHUBH - One Love',
-      author: '4K Show',
-      views: '82K views &#183; 12 days ago'
+      title: 'Tere Bharose Shyam Dhani | तेरे भरोसे श्याम धनी (Official Video) Vishu Puthi | Khatu Shyam New Song',
+      author: 'Venga Haryanvi',
+      views: '5,134,624 views  Mar 1, 2024'
     }
 }, {
-  iframe: 'https://www.youtube.com/embed/MhXCj8E9CZU?si=K5sum4mOxyDWSXK3',
-  time: '9:13',
-  profile: 'https://yt3.ggpht.com/4WPKEX1cWB23mdOTwEz9P121gqEm1hhUd9rT6DY_lVsxUMUlSe9saOEbk5hlU4sNhYpRFmMglg=s48-c-k-c0x00ffffff-no-nd-rj',
+  iframe: 'https://www.youtube.com/embed/a4pi2zKbf8Q?si=QZfGdSFGMh4wbobO',
+  time: '5:08',
+  profile: 'https://yt3.ggpht.com/ytc/AIdro_naFeRS5iTH2wIqJG4USJV_vJjLh2tOCyXV1H_X-DYIkg=s48-c-k-c0x00ffffff-no-rj',
     stat: {
-      title: 'Aditya Rikhari - SAMJHO NA ( NASAMAJH )',
-      author: 'Aditya Rikhari',
-      views: '18M views &#183; 1 year ago'
+      title: 'Kaka WRLD - Bholenath (A Love Story) | Official Video | Arvindr Khaira | Main Bhola Parvat Ka',
+      author: 'Pellet Drum Productions',
+      views: '284,843,217 views  Nov 11, 2020'
     }
 }, {
-  iframe: 'https://www.youtube.com/embed/Xukxjs9VYiI?si=z1dxCbCS3Va5ktHI',
-  time: '9:13',
-  profile: 'https://yt3.ggpht.com/4WPKEX1cWB23mdOTwEz9P121gqEm1hhUd9rT6DY_lVsxUMUlSe9saOEbk5hlU4sNhYpRFmMglg=s48-c-k-c0x00ffffff-no-nd-rj',
+  iframe: 'https://www.youtube.com/embed/Xukxjs9VYiI?si=4-D1BOTbeZL2cfxj',
+  time: '4:08',
+  profile: 'https://yt3.ggpht.com/szYQwddyXx-XcOXwmShVo35RNXNAAB1Og6XXPe7NPGwWOgUU3leNWXZmKY4dWAA2xgkMatoNvws=s48-c-k-c0x00ffffff-no-rj',
     stat: {
       title: 'Aditya Rikhari - NASAMAJH',
       author: 'Aditya Rikhari',
-      views: '5.8M views &#183; 1 year ago'
+      views: '10,076,331 views  Jul 28, 2022'
     }
 }, {
-  iframe: 'https://www.youtube.com/embed/boALQYYMbTI?si=NV3FgZNfP5AGEnbz',
-  time: '12:48',
-  profile: 'https://yt3.ggpht.com/oQ2NQMuq-9IS6_MZdsGXa0RWecaACremA01Z7jo-YpoEF1H6PyUF8PZzXkV10OYwSP3UMJDeTg=s48-c-k-c0x00ffffff-no-rj',
+  iframe: 'https://www.youtube.com/embed/sOoQH5z7BT8?si=_YLMAzgY--gpmtp5',
+  time: '5:02',
+  profile: 'https://yt3.ggpht.com/ytc/AIdro_lTIClTxbIfXAJHtzwqInxzY5h7PnvI9thZffyXeoa6xsA=s48-c-k-c0x00ffffff-no-rj',
     stat: {
-      title: "Ram Mandir: The Untold Truth about Ram's Exile | Dhruv Rathee",
-      author: 'Dhruv Rathee',
-      views: '9.5M views &#183; 6 days ago'
+      title: "Ik Supna | Amber Vashisht | Latest Punjabi Songs 2016 | Speed Records",
+      author: 'Speed Records',
+      views: '39,037,852 views  Feb 8, 2016'
     }
 }, {
   iframe: 'https://www.youtube.com/embed/-uN1Q98UMO4?si=ABsXvkI8WbA-IGWY',
